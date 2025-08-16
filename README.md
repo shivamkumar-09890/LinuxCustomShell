@@ -1,9 +1,6 @@
 # Custom C Shell
 
-## Sanchit Arora | 2019101047
-
----
-
+## Shivam
 ## Requirements
 
 - GCC compiler
@@ -149,4 +146,3 @@ From the root directory of project, run `make` followed by `./main`
 
 - **<**, **>**, **>>** and **|** will always have their special meanings and will be used correctly. This means that for I/O redirection, a file (may be an invalid name) will always come after the arrow. Similary, a command (may be an invalid) will always come after a pipe.
 
-> Will try to implement more features soon, Wish me luck!
